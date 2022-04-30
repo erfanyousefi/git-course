@@ -1,7 +1,7 @@
-function Hello(){
+function Login(){
     return <>
-    <div>Hello React</div>
-    <input type="text" name="username" id="" />
-    <input type="password" name="password" id="" />
+    <div>Login form</div>
+    <input type="text" name="username" id="username" />
+    <input type="password" name="password" id="password" />
     </>
 }
