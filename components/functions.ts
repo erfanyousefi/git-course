@@ -1,4 +1,3 @@
-function greeting(): void{
-    console.log("Hello Erfan ");
-    
+function greeting(name): string{
+    return "Hello" + name;
 }
