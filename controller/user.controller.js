@@ -1,3 +1,4 @@
-const addUser() => {
-    
+const addUser = () => {
+
 }
+const removeUser = () => {}
