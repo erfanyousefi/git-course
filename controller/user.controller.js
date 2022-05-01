@@ -5,3 +5,5 @@ let name = ""
 const removeUser = () => {}
 //comments
 const updateUser = () => {}
+const getAllUsers = () => {}
+const removeAllUsers = () => {}
