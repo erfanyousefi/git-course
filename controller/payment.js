@@ -1,0 +1,2 @@
+const paymentGetway = () => {}
+const callbackPay = () => {}
